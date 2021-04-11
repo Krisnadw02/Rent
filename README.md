@@ -1,2 +1,0 @@
-# Rent
-compilasi code
